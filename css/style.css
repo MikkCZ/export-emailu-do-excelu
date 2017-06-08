@@ -1,0 +1,11 @@
+.note {
+    font-size: 80%;
+    font-style: italic;
+}
+
+#inputArea {
+    display: block;
+    width:100em;
+    height:20em;
+}
+
